@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Coding Bootcamp @ Plataforma 5](https://www.plataforma5.la/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **atorroja18@gmail.com**
 
